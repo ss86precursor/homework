@@ -1,2 +1,0 @@
-# homework
-repository for homework

@@ -1,0 +1,18 @@
+.content {
+    float: left;
+    width: 667px;
+}
+
+.content-wrapper {
+    border: 1px solid #c8c8c8;
+}
+
+.content-wrapper img {
+    display: block;
+    margin: 55px auto;
+}
+
+.text-wrapper {
+    margin: 0 20px;
+    line-height: 20px;
+}

@@ -1,0 +1,81 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: #f9f9f9;
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+}
+
+a {
+    color: #2c2c2c;
+}
+
+.container {
+    width: 1060px;
+    margin: 0 auto;
+    position: relative;
+    min-height: 100%;
+    background: #fff;
+    box-shadow: 0 5px 5px rgba(0,0,0,.3);
+}
+
+.inner-container {
+    padding: 50px 45px;
+    float: left;
+}
+
+.header .logo {
+    background: url("../img/logo.png") no-repeat;
+    width: 145px;
+    height: 40px;
+}
+
+.nav-menu {
+    font-size: 0;
+}
+
+.nav-menu ul {
+    margin-left: 25px;
+}
+
+.nav-menu ul li {
+    display: inline-block;
+    font-size: 13px;
+}
+
+.header .nav-menu ul li {
+    font-size: 16px;
+}
+
+.nav-menu ul li a {
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.header .nav-menu ul li a {
+    color: #fff;
+}
+
+.header .nav-menu ul li a:hover {
+    color: #ddd;
+    background: #454545;
+}
+
+.header .nav-menu ul li a:active,
+.header .nav-menu ul li a:focus {
+    color: #fff;
+    background: #454545;
+    border-right: 1px solid #838383;
+    border-left: 1px solid  #838383;
+}
+
+.white-color {
+    background-image: linear-gradient(to top, #444343, #5e5e5e);
+}
+
+.mg-tp-bt {
+    margin: 35px 0;
+}

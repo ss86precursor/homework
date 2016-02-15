@@ -1,0 +1,22 @@
+.footer {
+    width: 969px;
+    position: absolute;
+    bottom: 45px;
+}
+
+.footer .nav-menu ul li a:hover,
+.footer .nav-menu ul li a:active,
+.footer .nav-menu ul li a:focus {
+    text-decoration: underline;
+}
+
+.copyright {
+    padding-right: 45px;
+    position: absolute;
+    right: 0;
+    top: 10px;
+}
+
+.grey-color {
+    background: #e1e1e1;
+}
