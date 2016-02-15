@@ -16,15 +16,12 @@ a {
 .container {
     width: 1060px;
     margin: 0 auto;
-    position: relative;
     min-height: 100%;
+    padding: 50px 45px;
+    position: relative;
     background: #fff;
     box-shadow: 0 5px 5px rgba(0,0,0,.3);
-}
-
-.inner-container {
-    padding: 50px 45px;
-    float: left;
+    box-sizing: border-box;
 }
 
 .header .logo {

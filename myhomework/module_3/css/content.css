@@ -1,6 +1,6 @@
 .content {
-    float: left;
-    width: 667px;
+    display: inline-block;
+    width: 666px;
 }
 
 .content-wrapper {

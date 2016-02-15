@@ -1,7 +1,7 @@
 .footer {
     width: 969px;
     position: absolute;
-    bottom: 45px;
+    bottom: 0;
 }
 
 .footer .nav-menu ul li a:hover,
